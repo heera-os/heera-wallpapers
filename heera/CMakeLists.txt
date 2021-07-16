@@ -4,6 +4,7 @@ project(heera-wallpapers-main)
 set(BACKGROUNDS
 	heera-01.jpg
 	heera-02.jpg
+    colorlines.jpg
 )
 
 install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/heera/)
