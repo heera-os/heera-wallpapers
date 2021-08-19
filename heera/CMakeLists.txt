@@ -5,6 +5,7 @@ set(BACKGROUNDS
 	heera-01.jpg
 	heera-02.jpg
     colorlines.jpg
+    heeradm.png
 )
 
 install(FILES ${BACKGROUNDS} DESTINATION /usr/share/backgrounds/heera/)
